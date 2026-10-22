@@ -1,0 +1,9 @@
+conditional
+dictionary
+loops
+
+Teacher
+1- Add Student
+2- View Student
+3- Check result
+4- exit
